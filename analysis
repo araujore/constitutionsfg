@@ -1,0 +1,68 @@
+constitutionsfg <- read.csv("https://raw.githubusercontent.com/araujore/constitutionsfg/main/constitutionsfg.csv")
+
+# How do we deal with 1st inclusion?
+
+chisq.test(constitutionsfg$Geopolitical.region, 
+           constitutionsfg$X1st.inclusion,
+           correct=FALSE) # p-value = 0.00036
+
+# IV = Legal system 
+
+chisq.test(constitutionsfg$Legal.system,
+           constitutionsfg$Type.of.inclusion,
+           correct=FALSE)
+chisq.test(constitutionsfg$Legal.system,
+           constitutionsfg$Type.of.provision,
+           correct=FALSE)
+chisq.test(constitutionsfg$Legal.system,
+           constitutionsfg$Primary.theme,
+           correct=FALSE)
+chisq.test(constitutionsfg$Legal.system,
+           constitutionsfg$Primary.origin,
+           correct=FALSE)
+
+# IV = Geopolitical region
+
+chisq.test(constitutionsfg$Geopolitical.region,
+           constitutionsfg$Type.of.inclusion,
+           correct=FALSE) # p-value = 0.04948
+chisq.test(constitutionsfg$Geopolitical.region,
+           constitutionsfg$Location.of.provision,
+           correct=FALSE) # p-value = 0.01049
+chisq.test(constitutionsfg$Geopolitical.region,
+           constitutionsfg$Type.of.provision,
+           correct=FALSE)
+chisq.test(constitutionsfg$Geopolitical.region,
+           constitutionsfg$Primary.origin,
+           correct=FALSE) # p-value = 8.809e-05
+chisq.test(constitutionsfg$Geopolitical.region,
+           constitutionsfg$Primary.theme,
+           correct=FALSE) # p-value = 0.001879
+
+# IV = Context of constitutional change
+
+chisq.test(constitutionsfg$Context.of.constitutional.change,
+           constitutionsfg$Type.of.provision,
+           correct=FALSE)
+chisq.test(constitutionsfg$Context.of.constitutional.change,
+           constitutionsfg$Primary.theme,
+           correct=FALSE)
+chisq.test(constitutionsfg$Context.of.constitutional.change,
+           constitutionsfg$Primary.origin,
+           correct=FALSE)
+
+# IV = Origin
+
+chisq.test(constitutionsfg$Primary.origin,
+           constitutionsfg$Type.of.provision,
+           correct=FALSE)
+chisq.test(constitutionsfg$Primary.origin,
+           constitutionsfg$Location.of.provision,
+           correct=FALSE)
+chisq.test(constitutionsfg$Primary.origin,
+           constitutionsfg$Primary.theme,
+           correct=FALSE) # p-value = 0.04207
+
+# Expected vs actual contingency tables
+
+chisq.test(test$expected)
