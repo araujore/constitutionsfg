@@ -1,5 +1,4 @@
 country,fg,fg_name,gdp,qogleg,legsyst,legsyst3,region,region1,ideolib,ideosta,ideouni,ideo,comp,year,event,location,type,inst,theme,theme2,origin,origin2,context,effect,effect2,further detail,fc,
-Rwanda,1,No FG,818.99,1,Civil law,,Africa,,0.0106,0.3681,0.6213,0.31,0.4,,,,,FALSE,,,,,,,,,,
 Algeria,1,FG in constitution,3262.58,1,Civil law,,Africa,,0.0216,0.5401,0.4383,0.17,0.14,1989,Original text,Preamble and Main text,3,FALSE,Natural resources,Environment,Emulation,,Regime consolidation,Symbolic,,https://docs.google.com/document/d/1CSSOfl9XkreoRXRvkccbaln1wSD12bF3BpDj85GZ8Ps/edit?usp=sharing,1,
 Angola,1,FG in constitution,2012.15,1,Civil law,,Africa,,0.0274,0.4886,0.484,0,0.14,2010,Original text,Preamble and Main text,4,FALSE,Environment,Natural resources,Emulation,,Regime consolidation,,,https://docs.google.com/document/d/1LjhqmGXpFukSt98VgvdrY3ss9dKBsVCtjqKnDkF_DMs/,0,https://docs.google.com/document/d/14jZAVNu8U0vbJ7FrrN2CzuA7aQcGJHRwM42rErFtBgc/
 Burundi,1,FG in constitution,253.59,1,Civil law,,Africa,,0.0136,0.3857,0.6007,0.45,0.73,2005,Original text,Preamble and Main text,3,FALSE,Natural resources,Environment,International influence,,Crisis change,,,,0,
@@ -18,7 +17,7 @@ Malawi,1,FG in constitution,406.65,0,Common law,,Africa,,0.0253,0.1294,0.8454,-0
 Morocco,1,FG in constitution,3158.32,1,Muslim law,,Africa,,0.1043,0.5321,0.3636,0.05,0.44,2011,Original text,Main text,4,FALSE,Future generations,,Emulation,,Crisis change,Agenda,,https://docs.google.com/document/d/1CSSOfl9XkreoRXRvkccbaln1wSD12bF3BpDj85GZ8Ps/edit?usp=sharing,1,
 Mozambique,1,FG in constitution,449.63,1,Customary law,,Africa,,0.0074,0.5211,0.4715,0.48,0.34,2004,Amendment,Main text,4,FALSE,Natural resources,Environment,Emulation,International influence,Non-crisis,Symbolic,,https://docs.google.com/document/d/1E8QDX08_3WgrEBzr4pcs2HMnwKjiSPqhtRucaEM3u3g/edit#heading=h.gnk0db11gdjr,0,
 Niger,1,FG in constitution,565.87,1,Civil law,,Africa,,0.0051,0.4597,0.5352,0.16,-0.18,2010,Original text,Main text,3,TRUE,Environment,Natural resources,Emulation,International influence,Crisis change,Symbolic,,"https://docs.google.com/document/d/1CSSOfl9XkreoRXRvkccbaln1wSD12bF3BpDj85GZ8Ps/edit?usp=sharing
-https://docs.google.com/document/d/14jZAVNu8U0vbJ7FrrN2CzuA7aQcGJHRwM42rErFtBgc/edit?usp=sharing",1,2
+https://docs.google.com/document/d/14jZAVNu8U0vbJ7FrrN2CzuA7aQcGJHRwM42rErFtBgc/edit?usp=sharing",1,3
 Senegal,1,FG in constitution,1459.51,1,Civil law,,Africa,,0.0103,0.4493,0.5403,0.47,0.33,2001,Original text,Main text,2,FALSE,Natural resources,Environment,Emulation,,Non-crisis,Symbolic,,"https://docs.google.com/document/d/1-uzskDGLu71NGPv-4b8wyKWS7uAHJYGB-iUuuMSSJNQ/edit?usp=sharing
 ",1,https://docs.google.com/document/d/14jZAVNu8U0vbJ7FrrN2CzuA7aQcGJHRwM42rErFtBgc/edit?usp=sharing
 Seychelles,1,FG in constitution,11638.72,1,Common law,,Africa,,0.0158,0.082,0.9022,-0.33,0.53,1993,Original text,Preamble,1,FALSE,Societal values,,Emulation,,Crisis change,,,,0,
@@ -29,7 +28,6 @@ Uganda,1,FG in constitution,912.44,0,Common law,,Africa,,0.1391,0.4374,0.4235,-0
 Vanuatu,1,FG in constitution,2875.95,1,Civil law,Common law,Africa,,0.0437,0.0971,0.8592,-0.52,0.58,1979,Original text,Main text,2,FALSE,Natural resources,Environment,Unclear,,Crisis change,Symbolic,,https://docs.google.com/document/d/1-HAHbF7ftPQ8JaqqKhZGhSIrN2wQbmBQogcKvAfKb_o/edit?usp=sharing,1,
 Zimbabwe,1,FG in constitution,"-188.007,00",0,Civil law,Customary law,Africa,,0.0174,0.1944,0.7883,-0.63,0.14,2013,Original text,Main text,4,FALSE,Environment,Public finance,Emulation,International influence,Crisis change,Symbolic,,https://docs.google.com/document/d/1Q-KrGeT4t9C5Y5oHyGM_VKcqx7KyTM3LSiw_TFsMK-k/edit?usp=sharing,1,
 Sudan,1,FG in constitution,775.04,0,Muslim law,,Africa,,0.0499,0.1758,0.7744,-0.02,0.14,,,,,FALSE,,,,,,,,,,
-Nigeria,1,No FG,2083.16,0,Common law,Customary law,Africa,,0.1339,0.077,0.7891,-0.18,-0.01,,,,,FALSE,,,,,,,,,,
 Argentina,1,FG in constitution,8554.64,1,Civil law,,Americas,,0.0068,0.3109,0.6823,0.4,0.78,1994,Amendment,Preamble and Main text,2,FALSE,Environment,Societal values,Emulation,,Non-crisis,Symbolic,,https://docs.google.com/document/d/1qf76SH8764fAvKA59ryze6ay0kOy648XvFuGZfogjys/edit#heading=h.gnk0db11gdjr,0,
 Bolivia,1,FG in constitution,3359.73,1,Civil law,,Americas,,0.0271,0.4698,0.5031,-0.19,0.16,2009,Original text,Main text,4,FALSE,Natural resources,Environment,Culture,,Non-crisis,,,https://docs.google.com/document/d/16p8VH_yq3lGIVjktii9IXr9FjSkJWp1FPw6E6MOzeVw/edit#heading=h.gnk0db11gdjr,0,
 Brazil,1,FG in constitution,"1.783.601,00",1,Civil law,,Americas,,0.0085,0.1599,0.8316,0,-0.26,1988,Original text,Main text,3,FALSE,Environment,,Emulation,,Crisis change,Judicial,Institutional transformation,https://docs.google.com/document/d/1uv54nsVFj4lTAXq8OvXiXxYsxMle6NqlS8mBPs6cDkE/edit#,0,
@@ -81,6 +79,8 @@ Norway,1,FG in constitution,67176.43,1,Civil law,,Western Europe,,,,,0.13,0.14,2
 Sweden,1,FG in constitution,51796.38,1,Civil law,,Western Europe,,,,,-0.13,0.44,1974,Original text,Main text,3,FALSE,Environment,,Culture,,Non-crisis,Symbolic,,https://docs.google.com/document/d/1iTarAgeNTauSZu_nPAqSPLmQA4FbyL5DMpna_Pv2FIA/edit#,0,
 Switzerland,1,FG in constitution,86849.47,1,Civil law,,Western Europe,,0.0452,0.1667,0.7881,-0.53,-0.05,1999,Original text,Preamble,1,FALSE,Future generations,,Emulation,,Non-crisis,Agenda,,https://docs.google.com/document/d/12HWzJlqTS5unG_u7Xqx-HzbpsIY8nEE5S_xdy5uHwfc/edit?usp=sharing,1,
 United Kingdom,1,FG in constitution,40406.28,0,Common law,,Western Europe,,0.9959,0.0018,0.0023,-0.22,-0.04,1706,Amendment,Preamble,,FALSE,,,,,,,,,,
+Rwanda,0,No FG,818.99,1,Civil law,,Africa,,0.0106,0.3681,0.6213,0.31,0.4,,,,,FALSE,,,,,,,,,,
+Nigeria,0,No FG,2083.16,0,Common law,Customary law,Africa,,0.1339,0.077,0.7891,-0.18,-0.01,,,,,FALSE,,,,,,,,,,
 Benin,0,No FG,1250.87,1,Civil law,,Africa,,0.0591,0.4859,0.455,0.08,0.15,,,,,FALSE,,,,,,,,,,
 Botswana,0,No FG,6780.72,0,Civil law,,Africa,,,,,,,,,,,FALSE,,,,,,,,,,
 Burkina Faso,0,No FG,790.97,1,Civil law,,Africa,,0.0073,0.2212,0.7715,0.16,-0.54,,,,,FALSE,,,,,,,,,,
@@ -90,7 +90,7 @@ Central African Republic,0,No FG,489.87,1,Civil law,,Africa,,0.1016,0.4877,0.410
 Chad,0,No FG,653.98,1,Civil law,,Africa,,0.0048,0.5729,0.4223,0.53,0.32,,,,,FALSE,,,,,,,,,,
 Comoros,0,No FG,1361.86,1,Civil law,,Africa,,0.2819,0.0742,0.6439,0.08,0.16,,,,,FALSE,,,,,,,,,,
 Congo (Democratic Republic of the),0,No FG,540.53,1,Civil law,,Africa,,0.004,0.6359,0.3601,0.03,0.51,,,,,FALSE,,,,,,,,,,
-Congo (Republic of the),0,No FG,2185.58,1,Civil law,,Africa,,0.0168,0.3387,0.6445,0.45,0.4,,,,,FALSE,,,,,,,,,,
+Congo (Republic of the),1,FG in constitution,2185.58,1,Civil law,,Africa,,0.0168,0.3387,0.6445,0.45,0.4,,Original text,Main text,3,TRUE,Future generations,,,,,,,,,
 Djibouti,0,No FG,3074.39,1,Civil law,Customary law,Africa,,0.0273,0.2065,0.7661,-0.09,0.01,,,,,FALSE,,,,,,,,,,
 Equatorial Guinea,0,No FG,6772.73,1,Civil law,,Africa,,0.0212,0.4262,0.5526,-0.03,0.33,,,,,FALSE,,,,,,,,,,
 Ethiopia,0,No FG,994.20,1,Civil law,,Africa,,0.0132,0.4088,0.578,-0.22,0.46,,,,,FALSE,,,,,,,,,,
@@ -106,7 +106,7 @@ Sierra Leone,0,No FG,526.51,0,Common law,,Africa,,,,,-0.37,0.44,,,,,FALSE,,,,,,,
 Somalia,0,No FG,326.98,0,Muslim law,"Customary law, Common law",Africa,,0.0117,0.7591,0.2292,-0.05,0.41,,,,,FALSE,,,,,,,,,,
 Tanzania,0,No FG,1090.39,0,Common law,,Africa,,0.2422,0.11,0.6478,-0.06,0.44,,,,,FALSE,,,,,,,,,,
 Togo,0,No FG,904.68,1,Civil law,,Africa,,0.0044,0.506,0.4896,0.68,0.79,,,,,FALSE,,,,,,,,,,
-Zambia,0,No FG,981.31,0,Common law,,Africa,,0.1548,0.0423,0.8029,-0.4,0.27,,,,,FALSE,,,,,,,,,,
+Zambia,1,FG in constitution,981.31,0,Common law,,Africa,,0.1548,0.0423,0.8029,-0.4,0.27,,Amendment,Main text,1,FALSE,Public finance,,,,,,,,,
 Antigua and Barbuda,0,No FG,14168.26,0,Common law,,Americas,,0.1427,0.0147,0.8426,-0.89,-0.01,,,,,FALSE,,,,,,,,,,
 Bahamas,0,No FG,29220.54,0,Common law,,Americas,,0.2777,0.0232,0.699,-0.52,0.14,,,,,FALSE,,,,,,,,,,
 Barbados,0,No FG,15162.57,0,Common law,,Americas,,0.3905,0.0212,0.5882,-0.52,0.09,,,,,FALSE,,,,,,,,,,
@@ -194,6 +194,6 @@ Liechtenstein,0,No FG,,1,Civil law,,Western Europe,,0.8242,0.0425,0.1333,0.05,0.
 Malta,0,No FG,28293.63,1,Civil law,,Western Europe,,,,,-0.31,0.33,,,,,FALSE,,,,,,,,,,
 Monaco,0,No FG,,1,Civil law,,Western Europe,,,,,,,,,,,FALSE,,,,,,,,,,
 Netherlands,0,No FG,52247.54,1,Civil law,,Western Europe,,,,,-0.03,-0.13,,,,,FALSE,,,,,,,,,,
-Portugal,0,No FG,22488.62,1,Civil law,,Western Europe,,0.0084,0.7769,0.2148,-0.05,0.46,,,,,FALSE,,,,,,,,,,
+Portugal,1,FG in constitution,22488.62,1,Civil law,,Western Europe,,0.0084,0.7769,0.2148,-0.05,0.46,,,,3,FALSE,Environment,Natural resources,,,,,,,,
 San Marino,0,No FG,44818.19,1,Civil law,,Western Europe,,,,,,,,,,,FALSE,,,,,,,,,,
 Spain,0,No FG,27132.32,1,Civil law,,Western Europe,,0.0154,0.2354,0.7492,0,0.35,,,,,FALSE,,,,,,,,,,
