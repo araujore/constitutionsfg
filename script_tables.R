@@ -16,47 +16,16 @@ library(kableExtra)
 
 allc <- read.csv("https://raw.githubusercontent.com/araujore/constitutionsfg/main/constitutionsfg.csv")
 
-# generating tables
-obstbl <- chisq.test(allc$region, allc$fg)$observed
-expmtx <- chisq.test(allc$region, allc$fg)$expected
-results <- chisq.test(allc$region, allc$fg)
-
-
-regions <- rownames(obstbl)
-rowlabels <- c("No FG", "FG in constitution")
-
-fulltable <- cbind(expmtx, obstbl)
-colnames(fulltable) <- c(rowlabels,rowlabels)
-
 #### Table 1
 
-# chisq.test(allc$region, allc$fg)
-# x² = 10.293, df = 4, p-value = 0.0377
+table1 <- read.csv("https://raw.github.com/araujore/constitutionsfg/main/table_1.csv")
 
-fulltable %>%
+rowlabels1 <- c("Environment", "Natural resources", "Future generations (stricto sensu)", "Societal values", "Public finance")
+colnames(table1) <- c(rowlabels1)
+
+table1 %>%
     kbl(digits = 0, align = "c", 
-      caption = "Table 1. Regions vs. presence of future generations in constitution (2021)") %>%
-  
-    add_header_above(c(" " = 1, "Expected" = 2, "Observed" = 2))  %>%
-
-    kable_styling(bootstrap_options = c("condensed"), font_size = 14)  %>%
-
-    footnote(general = "$x²(4, N = 81)= 10.3, p = 0.036$", 
-           general_title = "Note. ", footnote_as_chunk = T)  %>%
-  
-    kable_classic(full_width = T, html_font = "Times New Roman")
-  
-
-#### Table 2
-
-table2 <- read.csv("https://raw.github.com/araujore/constitutionsfg/main/table_2.csv")
-
-rowlabels2 <- c("Environment", "Natural resources", "Future generations (stricto sensu)", "Societal values", "Public finance")
-colnames(table2) <- c(rowlabels2)
-
-table2 %>%
-    kbl(digits = 0, align = "c", 
-      caption = "Table 2. Themes of constitutional provisions mentioning future generations (2021)") %>%
+      caption = "Table 1. Themes of constitutional provisions mentioning future generations (2021)") %>%
   
     kable_styling(bootstrap_options = c("condensed"), font_size = 14)  %>%
   
@@ -66,16 +35,16 @@ table2 %>%
     kable_classic(full_width = T, html_font = "Times New Roman")
 
 
-#### Table 3
+#### Table 2
 
-table3 <- read.csv("https://raw.github.com/araujore/constitutionsfg/main/table_3.csv")
+table2 <- read.csv("https://raw.github.com/araujore/constitutionsfg/main/table_2.csv")
 
-rowlabels3 <- c("Principle", "Civic duty", "State duty", "Right", "Total")
-colnames(table3) <- c(rowlabels3)
+rowlabels2 <- c("Principle", "Civic duty", "State duty", "Right", "Total")
+colnames(table2) <- c(rowlabels2)
 
-table3 %>%
+table2 %>%
     kbl(digits = 0, align = "c", 
-      caption = "Table 3. Strength of constitutional provisions mentioning future generations (2021)") %>%
+      caption = "Table 2. Strength of $de$ $jure$ protection of future generations in constitutions (2021)") %>%
   
     kable_styling(bootstrap_options = c("condensed"), font_size = 14)  %>%
   
@@ -83,6 +52,36 @@ table3 %>%
    #         general_title = "Note. ", footnote_as_chunk = T)  %>%
   
     kable_classic(full_width = T, html_font = "Times New Roman")
+
+#### Table 3
+
+obstbl <- chisq.test(allc$region, allc$fg)$observed
+# expmtx <- chisq.test(allc$region, allc$fg)$expected
+
+
+regions <- rownames(obstbl)
+rowlabels <- c("No FG", "FG in constitution")
+
+# fulltable <- cbind(expmtx, obstbl)
+colnames(obstbl) <- c(rowlabels)
+
+# result <- chisq.test(allc$region, allc$fg)
+# x² = 12.903, df = 4, p-value = 0.01176
+
+obstbl %>%
+  kbl(digits = 0, align = "c", 
+      caption = "Table 3. Regions vs. presence of future generations in constitution (2021)") %>%
+  
+  kable_styling(bootstrap_options = c("condensed"), font_size = 14)  %>%
+  
+  footnote(general = "Africa: 26% more FG than expected
+                        Americas: 22% less FG than expected
+                        Asia & the Pacific: 33% less FG than expected
+                        Eastern Europe & Central Asia: 30% more FG than expected
+                        Western Europe: 12% less FG than expected", 
+           general_title = "Note. ", footnote_as_chunk = T)  %>%
+  
+  kable_classic(full_width = T, html_font = "Times New Roman")
 
 
 #### Table 4
