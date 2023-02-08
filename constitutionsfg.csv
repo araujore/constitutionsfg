@@ -1,199 +1,197 @@
-country,fg,gdp,qogleg,legsyst,region,ideolib,ideosta,ideouni,fg_year,year_new,year_last_reform,event,location,type,inst,theme1,theme2,fc,further detail,fg_name
-Afghanistan,0,580.82,1,Muslim law,Asia & the Pacific,0.083,0.468,0.449,,2004,2004,,,,FALSE,,,,,FG in constitution
-Albania,1,5286.68,1,Civil law,Eastern Europe & Central Asia,0.0071,0.1205,0.8724,1998,1998,2016,Original text,Main text,3,FALSE,Environment,,0,https://docs.google.com/document/d/1b5x-0seGDUEnOawOGbqFnd5xFwzYXjSwxc26A33iHZI/edit?usp=sharing,FG in constitution
-Algeria,1,3262.58,1,Civil law,Africa,0.0216,0.5401,0.4383,1989,2020,2020,Original text,Preamble and Main text,3,FALSE,Natural resources,Environment,1,https://docs.google.com/document/d/1-uzskDGLu71NGPv-4b8wyKWS7uAHJYGB-iUuuMSSJNQ/edit?usp=sharing,FG in constitution
-Andorra,1,,1,Customary law,Western Europe,,,,1993,1993,1993,Original text,Preamble and Main text,3,FALSE,Environment,,0,https://docs.google.com/document/d/1nFb9hiOFRtJ-30yWIaGJWgUZM0CdxRhSLI-WpwsGtwM/edit?usp=sharing,FG in constitution
-Angola,1,2012.15,1,Civil law,Africa,0.0274,0.4886,0.484,2010,2010,2010,Original text,Preamble and Main text,4,FALSE,Environment,Natural resources,0,https://docs.google.com/document/d/1DVA7zi8EP0XnkFkwRoZdsKkINux-zDptVz_ExQlMofU/edit#heading=h.gnk0db11gdjr,FG in constitution
-Antigua and Barbuda,0,14168.26,0,Common law,Americas,0.1427,0.0147,0.8426,,1981,1981,,,,FALSE,,,,https://docs.google.com/document/d/1fWOwdiXh-9rKNqZB48BFXL1_T2iMNsPwdnsq01p0koo/edit#heading=h.7mvg00gb0tle,FG in constitution
-Argentina,1,8554.64,1,Civil law,Americas,0.0068,0.3109,0.6823,1994,1983,1994,Amendment,Preamble and Main text,2,FALSE,Environment,Societal values,0,https://docs.google.com/document/d/1TUgZ5wT3kykL3PW5tmzvdMCDYfL6lZvLfjgxRXqCQw0/edit#,FG in constitution
-Armenia,1,4155.27,1,Civil law,Eastern Europe & Central Asia,0.0073,0.0988,0.8939,1995,1995,2015,Original text,Preamble,3,FALSE,Environment,Natural resources,0,https://docs.google.com/document/d/1MIk2C9KrIVSZDEZXghhxtYpqtLk1eVe4woomxzS8a0w/edit#,FG in constitution
-Australia,0,52824.82,0,Common law,Asia & the Pacific,0.9912,0.0024,0.0065,,1901,1985,,,,FALSE,,,,https://docs.google.com/document/d/1fKuk0KPae-2gkijWAjELejtjqbzGiznV-P0EdUIeL7g/edit#heading=h.gnk0db11gdjr,FG in constitution
-Austria,1,48154.38,1,Civil law,Western Europe,,,,2005,1945,2013,Amendment,Main text,1,FALSE,Societal values,,,https://docs.google.com/document/d/1sbPxHl_y9BVIK3d_tHUkh4HNpCfYYjVJ5j8Q9ZKxR0o/edit#heading=h.gnk0db11gdjr,FG in constitution
-Azerbaijan,1,4218.00,1,Civil law,Eastern Europe & Central Asia,0.0486,0.2489,0.7025,1995,1995,2016,Original text,Preamble,1,FALSE,Future generations,,0,https://docs.google.com/document/d/1hTQ21DtjP4DViNqPovC1buXbDU-jvrlM0yK-DVU05P4/edit#,FG in constitution
-Bahamas,0,29220.54,0,Common law,Americas,0.2777,0.0232,0.699,,1973,1973,,,,FALSE,,,,https://docs.google.com/document/d/1VL8w6wScBWIJ4GMX-02hAKGZ2m0NvjahK5wWx36Hzz4/edit#,FG in constitution
-Bahrain,0,22402.00,0,Muslim law,Asia & the Pacific,0.1151,0.5435,0.3414,,2002,2017,,,,FALSE,,,,https://docs.google.com/document/d/15rlZQ_1WkCydNcbv2rllvZz2rAYURSH3dJVAEvxG9LQ/edit#,FG in constitution
-Bangladesh,0,1998.43,0,Muslim law,Asia & the Pacific,0.1351,0.3595,0.5053,,1986,2014,,,,FALSE,,,,https://docs.google.com/document/d/1bpapt89Qu1IUWHkeK2OuY1eLsdk6_uOq6Sg5UA6_Ysk/edit#heading=h.gnk0db11gdjr,FG in constitution
-Barbados,0,15162.57,0,Common law,Americas,0.3905,0.0212,0.5882,,1966,2007,,,,FALSE,,,,https://docs.google.com/document/d/12HWzJlqTS5unG_u7Xqx-HzbpsIY8nEE5S_xdy5uHwfc/edit?usp=sharing,FG in constitution
-Belarus,0,6398.87,1,Civil law,Eastern Europe & Central Asia,0.0512,0.1404,0.8084,,1994,2004,,,,FALSE,,,,,FG in constitution
-Belgium,0,44529.39,1,Civil law,Western Europe,,,,,1831,2014,,,,FALSE,,,,,FG in constitution
-Belize,0,3944.94,0,Common law,Americas,0.0699,0.0189,0.9112,,1981,2011,,,,FALSE,,,,https://docs.google.com/document/d/1NQZRm9PIMCTUQxK9qLiFLwP4oq5wl4RDSUnL90jPUnU/edit#,FG in constitution
-Benin,0,1250.87,1,Civil law,Africa,0.0591,0.4859,0.455,,1990,1990,,,,FALSE,,,,,FG in constitution
-Bhutan,1,3358.96,0,Customary law,Asia & the Pacific,0.5119,0.0432,0.4449,2008,2008,2008,Original text,Main text,3,FALSE,Environment,Public finance,0,https://docs.google.com/document/d/1hLRDdUEYqPtl1nAn4ZxyqRjlnoxBtmgwtDhzNT4SS94/edit#,FG in constitution
-Bolivia,1,3359.73,1,Civil law,Americas,0.0271,0.4698,0.5031,2009,2009,2009,Original text,Main text,4,FALSE,Natural resources,Environment,0,,FG in constitution
-Bosnia and Herzegovina,0,5912.98,1,Civil law,Eastern Europe & Central Asia,0.0416,0.2657,0.6928,,1995,2009,,,,FALSE,,,,,FG in constitution
-Botswana,0,6780.72,0,Civil law,Africa,,,,,1966,2016,,,,FALSE,,,,https://docs.google.com/document/d/1D5fY3p6vWNnNcZ7sWx5esLbnMN6IZPP1ZMOxtEE2xEY/edit#,FG in constitution
-Brazil,1,"1.783.601,00",1,Civil law,Americas,0.0085,0.1599,0.8316,1988,1988,2017,Original text,Main text,3,FALSE,Environment,,0,"https://docs.google.com/document/d/1-uzskDGLu71NGPv-4b8wyKWS7uAHJYGB-iUuuMSSJNQ/edit?usp=sharing
-",FG in constitution
-Brunei,0,26089.28,0,Muslim law,Asia & the Pacific,0.9227,0.0093,0.068,,1959,2006,,,,FALSE,,,,https://docs.google.com/document/d/1-HAHbF7ftPQ8JaqqKhZGhSIrN2wQbmBQogcKvAfKb_o/edit?usp=sharing,FG in constitution
-Bulgaria,0,9919.30,1,Civil law,Eastern Europe & Central Asia,0.0067,0.064,0.9293,,1991,2015,,,,FALSE,,,,https://docs.google.com/document/d/1oHnPP6-30mypIVXzaVBU0PNoWyQAlDMsSGtkuK6yqqY/edit?usp=sharing,FG in constitution
-Burkina Faso,0,790.97,1,Civil law,Africa,0.0073,0.2212,0.7715,,1991,2015,,,,FALSE,,,,https://docs.google.com/document/d/1V0vJ_uhT6XHAbX240TdoWenKMXsSW6cAt9vZPYQ_fvs/edit#,FG in constitution
-Burundi,1,253.59,1,Civil law,Africa,0.0136,0.3857,0.6007,2005,2018,2018,Original text,Preamble and Main text,3,FALSE,Natural resources,Environment,0,https://docs.google.com/document/d/1qf76SH8764fAvKA59ryze6ay0kOy648XvFuGZfogjys/edit#heading=h.gnk0db11gdjr,FG in constitution
-Cambodia,0,1655.39,1,Civil law,Asia & the Pacific,0.0357,0.6145,0.3498,,1993,2008,,,,FALSE,,,,https://docs.google.com/document/d/1CSSOfl9XkreoRXRvkccbaln1wSD12bF3BpDj85GZ8Ps/edit?usp=sharing,FG in constitution
-Cameroon,0,1469.91,1,Civil law,Africa,0.4318,0.0232,0.545,,1972,2008,,,,FALSE,,,,https://docs.google.com/document/d/1CSSOfl9XkreoRXRvkccbaln1wSD12bF3BpDj85GZ8Ps/edit?usp=sharing,FG in constitution
-Canada,0,43278.22,0,Common law,Americas,0.8324,0.0098,0.1578,,1867,2011,,,,FALSE,,,,,FG in constitution
-Cape Verde,0,3147.69,1,Civil law,Africa,0.0379,0.8316,0.1305,,1980,1992,,,,FALSE,,,,https://docs.google.com/document/d/1tHwZFUE39N3w4cQDbIhoGAY-9Pi9-FQ7-BlUG0ELiog/edit?usp=sharing,FG in constitution
-Central African Republic,0,489.87,1,Civil law,Africa,0.1016,0.4877,0.4107,,2016,2016,,,,FALSE,,,,https://docs.google.com/document/d/1OokfUZA5AL-FBcEdLsaLXGAyIz4GHcvSXhDGdVtBF3M/edit#,FG in constitution
-Chad,0,653.98,1,Civil law,Africa,0.0048,0.5729,0.4223,,2018,2018,,,,FALSE,,,,"https://docs.google.com/document/d/1CSSOfl9XkreoRXRvkccbaln1wSD12bF3BpDj85GZ8Ps/edit?usp=sharing
-https://docs.google.com/document/d/14jZAVNu8U0vbJ7FrrN2CzuA7aQcGJHRwM42rErFtBgc/edit?usp=sharing",FG in constitution
-Chile,0,12989.60,1,Civil law,Americas,0.1079,0.6376,0.2545,,1980,2018,,,,FALSE,,,,https://docs.google.com/document/d/11-E0CXDU2HlclQHtVi_rbjJXe2JApOJGXetai7-CTd4/edit#,FG in constitution
-China,0,10483.88,1,Civil law,Asia & the Pacific,0.0015,0.9897,0.0088,,1982,2018,,,,FALSE,,,,https://docs.google.com/document/d/1yU8GTFTnTfJhJA4sHtM7grNaC3wxiNW3jwhkk_lDG6Q/edit#,FG in constitution
-Colombia,0,5335.59,1,Civil law,Americas,0.0416,0.1304,0.828,,1991,2015,,,,FALSE,,,,https://docs.google.com/document/d/18it6acatnXj7o7tNt9L-GwW3eFzmwMVHNdiPNqhfuCc/edit#,FG in constitution
-Comoros,0,1361.86,1,Civil law,Africa,0.2819,0.0742,0.6439,,2018,2018,,,,FALSE,,,,https://docs.google.com/document/d/1ug5ErHJ7uK3OtrADmnxpqHjIOA9y1Rvg9PvbDcYHMPg/edit,FG in constitution
-Congo (Democratic Republic of the),0,540.53,1,Civil law,Africa,0.004,0.6359,0.3601,,2005,2011,,,,FALSE,,,,https://docs.google.com/document/d/1xwJt9WZK9u0wrOqIWDwww-34MB62YE7NqjWVgCSpGik/edit#,FG in constitution
-Congo (Republic of the),1,2185.58,1,Civil law,Africa,0.0168,0.3387,0.6445,2015,2015,2015,Original text,Main text,3,TRUE,Future generations,,,,FG in constitution
-Costa Rica,0,11982.28,1,Civil law,Americas,0.0228,0.3023,0.6748,,1949,2020,,,,FALSE,,,,https://docs.google.com/document/d/14QPU6AlZEVWSNeCZTwN6YtRDndmWtSmhI_7Gu05fp-g/edit#heading=h.gnk0db11gdjr,FG in constitution
-Cote d'Ivoire,1,2277.72,1,Civil law,Africa,0.0068,0.2137,0.7795,2016,2016,2016,Original text,Preamble,1,FALSE,Environment,,1,https://docs.google.com/document/d/1Mqe9Scp0sWahOwpYUKNfAXNmG0OzZrTkZqeNWrdAyqg/edit#,FG in constitution
-Croatia,0,14072.08,1,Civil law,Eastern Europe & Central Asia,0.1622,0.6411,0.1967,,1991,2013,,,,FALSE,,,,,FG in constitution
-Cuba,1,,1,Civil law,Americas,0.0069,0.9039,0.0891,1992,2019,2019,Amendment,Main text,3,FALSE,Environment,Natural resources,0,https://docs.google.com/document/d/1e88v9YhvRSdqmT0i-S03of8n_K-huop05Z8lsqJdhXE/edit#,FG in constitution
-Cyprus,0,27053.80,0,Common law,Eastern Europe & Central Asia,,,,,1960,2013,,,,FALSE,,,,https://docs.google.com/document/d/13DhjxDFUH04K44Q6Hc8nzlynNX1tVBhP7u_LunRtv7g/edit#heading=h.gnk0db11gdjr,FG in constitution
-Czechia,1,22578.83,1,Civil law,Eastern Europe & Central Asia,0.0089,0.0655,0.9256,2002,1993,2013,Amendment,Preamble,1,FALSE,Future generations,,0,https://docs.google.com/document/d/1D_FjEbMJbxP2VaGob9IZfy3Q5dY8ekGHvuwQMzQ0MZw/edit#heading=h.gnk0db11gdjr,FG in constitution
-Denmark,0,60494.20,1,Civil law,Western Europe,,,,,1953,1953,,,,FALSE,,,,https://docs.google.com/document/d/1s7VIVnoVZHsyYEHB7woFxW9n8n0xHrsjDpaP0oTPS1w/edit#heading=h.gnk0db11gdjr,FG in constitution
-Djibouti,0,3074.39,1,Civil law,Africa,0.0273,0.2065,0.7661,,1992,2010,,,,FALSE,,,,,FG in constitution
-Dominica,0,6903.76,0,Common law,Americas,0.1101,0.0126,0.8773,,1978,2014,,,,FALSE,,,,https://docs.google.com/document/d/1uv54nsVFj4lTAXq8OvXiXxYsxMle6NqlS8mBPs6cDkE/edit#,FG in constitution
-Dominican Republic,1,7530.19,1,Civil law,Americas,0.0121,0.1868,0.8011,2010,2015,2015,Original text,Main text,3,FALSE,Environment,,0,https://docs.google.com/document/d/1EoNlrmz--lrpOmSztojYVqWtvxMc7KrsWW8xuTKOw3M/edit#,FG in constitution
-Ecuador,1,5520.36,1,Civil law,Americas,0.0074,0.2672,0.7254,2008,2008,2021,Original text,Main text,3,FALSE,Environment,Natural resources,0,https://docs.google.com/document/d/1ME6N__DyxV6IiKTYW23slrszEHYCGHBA3R_rpbFcTh4/edit?usp=sharing,FG in constitution
-Egypt,1,3586.97,1,Muslim law,Africa,0.0805,0.5595,0.3599,2012,2014,2019,Original text,Preamble and Main text,4,FALSE,Natural resources,Environment,0,https://docs.google.com/document/d/16A2lqJOpwZJzlM-jkkeB3UflpXXaX6QLlPnddjmwLlI/edit#,FG in constitution
-El Salvador,0,3794.31,1,Civil law,Americas,,,,,1983,2014,,,,FALSE,,,,https://docs.google.com/document/d/1lYAmIADeDuahc3191JfmNJ-dQaG7riardQR9-p9_NsI/edit,FG in constitution
-Equatorial Guinea,0,6772.73,1,Civil law,Africa,0.0212,0.4262,0.5526,,1991,2012,,,,FALSE,,,,,FG in constitution
-Eritrea,1,588.25,1,Civil law,Africa,0.0148,0.4663,0.5189,1997,1997,1997,Original text,Preamble and Main text,3,FALSE,Natural resources,Societal values,0,https://docs.google.com/document/d/1r3bZG_OFkqedPsVAKazbPgZDsxNvVvqArYAl4HwZ-MU/edit?usp=sharing,FG in constitution
-Estonia,1,23330.09,1,Civil law,Eastern Europe & Central Asia,0.1014,0.2993,0.5992,1992,1992,2015,Original text,Preamble,1,FALSE,Future generations,,0,https://docs.google.com/document/d/1iTarAgeNTauSZu_nPAqSPLmQA4FbyL5DMpna_Pv2FIA/edit#,FG in constitution
-Eswatini,1,3504.45,0,Civil law,Africa,0.2994,0.3364,0.3642,2005,2005,2005,Original text,Main text,3,FALSE,Natural resources,Environment,0,,FG in constitution
-Ethiopia,0,994.20,1,Civil law,Africa,0.0132,0.4088,0.578,,1994,1994,,,,FALSE,,,,https://docs.google.com/document/d/1HIO5sZb11UWQUk4hE1d1SbgivvO2x8tFZ2zpKU0PFMo/edit?usp=sharing,FG in constitution
-Fiji,1,4797.32,0,Common law,Asia & the Pacific,0.0122,0.0333,0.9545,2013,2013,2013,Original text,Main text,4,FALSE,Environment,,0,https://docs.google.com/document/d/1bMV7-9Gw0VExBqGgLTklRgbeWyVxH93Z9DlkYVxk8CY/edit?usp=sharing,FG in constitution
-Finland,0,48981.44,1,Civil law,Western Europe,,,,,1999,2011,,,,FALSE,,,,https://docs.google.com/document/d/1IaxZtIV6YhJcbYCwd8vr0RxJAY1AJyYMUHzVIUcgukk/edit#,FG in constitution
-France,1,39907.14,1,Civil law,Western Europe,0.0259,0.3433,0.6308,2005,1958,2008,Amendment,Preamble,1,FALSE,Environment,,1,https://docs.google.com/document/d/1E8QDX08_3WgrEBzr4pcs2HMnwKjiSPqhtRucaEM3u3g/edit#heading=h.gnk0db11gdjr,FG in constitution
-Gabon,0,7421.18,1,Civil law,Africa,0.0059,0.1899,0.8042,,1991,2011,,,,FALSE,,,,https://docs.google.com/document/d/16p8VH_yq3lGIVjktii9IXr9FjSkJWp1FPw6E6MOzeVw/edit#heading=h.gnk0db11gdjr,FG in constitution
-Gambia,1,790.83,0,Muslim law,Africa,0.0222,0.3721,0.6056,1996,1996,2018,Original text,Main text,3,FALSE,Environment,,0,https://docs.google.com/document/d/1LjhqmGXpFukSt98VgvdrY3ss9dKBsVCtjqKnDkF_DMs/,FG in constitution
-Georgia,1,4247.94,1,Civil law,Eastern Europe & Central Asia,0.0551,0.3105,0.6344,1995,1995,2018,Original text,Main text,3,FALSE,Environment,Natural resources,0,https://docs.google.com/document/d/1-k0ZuqC7DZxVDIRRKMY6jPVsk4U4KAtvkYGOrQS7G68/edit?usp=sharing,FG in constitution
-Germany,1,45732.80,1,Civil law,Western Europe,0.0198,0.1419,0.8382,1994,1949,2014,Amendment,Main text,3,FALSE,Environment,,1,https://docs.google.com/document/d/1jFikL4bFOWUlPkxbQRitkK_962yvUT0FgE1Lgi8oRqY/edit#,FG in constitution
-Ghana,1,2222.91,0,Common law,Africa,0.0532,0.0353,0.9115,1992,1992,1996,Original text,Preamble and Main text,3,FALSE,Environment,Societal values,0,https://docs.google.com/document/d/1es7SKg8LJcqpOGMlG-_PTKYOXWVNLxFJWyt0ZWwHm3I/edit?usp=sharing,FG in constitution
-Greece,0,17670.29,1,Civil law,Western Europe,0.5327,0.0867,0.3805,,1975,2008,,,,FALSE,,,,https://docs.google.com/document/d/1Q-KrGeT4t9C5Y5oHyGM_VKcqx7KyTM3LSiw_TFsMK-k/edit?usp=sharing,FG in constitution
-Grenada,0,9185.56,0,Common law,Americas,0.0414,0.0164,0.9422,,1991,1992,,,,FALSE,,,,https://docs.google.com/document/d/1khb5tibytVRerL8pxhKkzBOMEwZpjGmj6Z6hrnsXLd0/edit#,FG in constitution
-Guatemala,0,4288.75,1,Civil law,Americas,0.0622,0.3128,0.625,,1985,1993,,,,FALSE,,,,https://docs.google.com/document/d/1mc99GmqNaTWSWR7JPZ1ZQiC6squvO-VzmnycjnFvDlg/edit?usp=sharing,FG in constitution
-Guinea,0,1106.47,1,Civil law,Africa,0.0416,0.5973,0.3611,,,,,,,FALSE,,,,https://docs.google.com/document/d/1xbyIdi9uAM_KpMB_S_KYlVSO3mBy4liI4oWeXdD7W1Y/edit#heading=h.ubgri03ax2j0,FG in constitution
-Guinea-Bissau,0,789.88,1,Civil law,Africa,0.0535,0.7769,0.1696,1984,1984,1996,,,,FALSE,,,,https://docs.google.com/document/d/1HPeqgS4f2-WquySlh2xDE3KAbKkVAX4BL2UkRQkiixw/edit#,FG in constitution
-Guyana,1,7327.17,0,Common law,Americas,0.0096,0.479,0.5114,2003,1980,2016,Amendment,Main text,3,FALSE,Environment,,1,https://docs.google.com/document/d/1CSSOfl9XkreoRXRvkccbaln1wSD12bF3BpDj85GZ8Ps/edit?usp=sharing,FG in constitution
-Haiti,0,1252.87,1,Civil law,Americas,0.0309,0.3509,0.6182,1987,1987,2012,,,,FALSE,,,,https://docs.google.com/document/d/1L6cUnTx5SDtujralTX1IQ0ezpT4D7ZHfXZZA7Ymrqbs/edit?usp=sharing,FG in constitution
-Honduras,0,2382.88,1,Civil law,Americas,0.0107,0.3473,0.642,1982,1982,2013,,,,FALSE,,,,,FG in constitution
-Hungary,1,15820.10,1,Civil law,Eastern Europe & Central Asia,0.1574,0.3264,0.5161,2011,2011,2016,Original text,Preamble and Main text,3,TRUE,Future generations,Natural resources,0,,FG in constitution
-Iceland,0,59633.72,1,Civil law,Western Europe,,,,1994,1944,2013,,,,FALSE,,,,,FG in constitution
-India,0,1964.88,0,Common law,Asia & the Pacific,0.1689,0.1092,0.7219,1949,1949,2016,,,,FALSE,,,,,FG in constitution
-Indonesia,0,3921.62,1,Civil law,Asia & the Pacific,0.1339,0.4196,0.4465,1959,1945,2002,,,,FALSE,,,,,FG in constitution
-Iran,1,7554.77,1,Muslim law,Asia & the Pacific,0.0295,0.8802,0.0903,1979,1979,1989,Original text,Main text,4,FALSE,Environment,,0,,FG in constitution
-Iraq,0,4288.77,1,Civil law,Asia & the Pacific,0.0673,0.2549,0.6778,2005,2005,2005,,,,FALSE,,,,,FG in constitution
-Ireland,0,83849.81,0,Common law,Western Europe,0.2818,0.1814,0.5368,1937,1937,2019,,,,FALSE,,,,,FG in constitution
-Israel,0,43688.58,0,Civil law,Asia & the Pacific,0.1136,0.3353,0.5511,1958,1958,2013,,,,FALSE,,,,,No FG
-Italy,0,31288.02,1,Civil law,Western Europe,,,,1947,1947,2020,,,,FALSE,,,,,No FG
-Jamaica,1,5095.64,0,Common law,Americas,,,,2011,1962,2015,Amendment,Main text,4,FALSE,Future generations,,1,,No FG
-Japan,1,40146.07,1,Civil law,Asia & the Pacific,0.0592,0.0693,0.8714,1946,1946,1946,Original text,Preamble and Main text,4,FALSE,Future generations,Societal values,0,,No FG
-Jordan,0,4259.26,1,Civil law,Asia & the Pacific,0.8741,0.0364,0.0895,1952,1952,2016,,,,FALSE,,,,,No FG
-Kazakhstan,1,8732.64,1,Civil law,Eastern Europe & Central Asia,0.0234,0.0929,0.8837,1995,1995,2017,Original text,Preamble,1,FALSE,Future generations,,0,,No FG
-Kenya,1,"50.891,00",0,Common law,Africa,0.0357,0.0502,0.9141,2010,2010,2010,Original text,Preamble and Main text,4,FALSE,Environment,Public finance,1,,No FG
-Kiribati,0,1687.51,0,Common law,Asia & the Pacific,0.2007,0.1241,0.6752,1979,1979,2013,,,,FALSE,,,,,No FG
-"Korea, North",0,,1,Civil law,Asia & the Pacific,0.0013,0.987,0.0118,1972,1972,2016,,,,FALSE,,,,,No FG
-"Korea, South",1,31496.77,1,Civil law,Asia & the Pacific,0.1675,0.3962,0.4363,1987,1948,1987,Amendment,Preamble,1,FALSE,Societal values,,0,,No FG
-Kosovo,0,,,Civil law,Eastern Europe & Central Asia,0.0078,0.5066,0.4856,2008,2008,2016,,,,FALSE,,,,,No FG
-Kuwait,0,22105.09,1,Muslim law,Asia & the Pacific,0.0778,0.5689,0.3533,1962,1962,1992,,,,FALSE,,,,,No FG
-Kyrgyzstan,0,1146.39,1,Civil law,Eastern Europe & Central Asia,0.0321,0.1382,0.8298,2010,2010,2016,,,,FALSE,,,,,No FG
-Laos,0,2625.53,1,Civil law,Asia & the Pacific,0.0077,0.8752,0.1171,1991,1991,2015,,,,FALSE,,,,,No FG
-Latvia,1,17559.86,1,Civil law,Eastern Europe & Central Asia,0.0323,0.3135,0.6542,2014,1991,2016,Amendment,Preamble,1,FALSE,Future generations,,0,,No FG
-Lebanon,0,2802.14,1,Common law,Asia & the Pacific,0.0545,0.3333,0.6122,1926,1926,2004,,,,FALSE,,,,,No FG
-Lesotho,1,1002.98,0,Common law,Africa,,,,1993,1993,2018,Original text,Main text,3,FALSE,Environment,Societal values,0,,No FG
-Liberia,1,646.27,0,Common law,Africa,0.0186,0.1555,0.826,1986,1986,1986,Original text,Preamble,1,FALSE,Societal values,,0,,No FG
-Libya,1,3280.83,1,Muslim law,Africa,0.0121,0.6692,0.3186,2011,2011,2012,Original text,Preamble,1,FALSE,Societal values,,0,,No FG
-Liechtenstein,0,,1,Civil law,Western Europe,0.8242,0.0425,0.1333,1921,1921,2011,,,,FALSE,,,,,No FG
-Lithuania,0,19916.50,1,Civil law,Eastern Europe & Central Asia,0.009,0.3317,0.6592,,1992,2019,,,,FALSE,,,,,No FG
-Luxembourg,1,116921.11,1,Civil law,Western Europe,,,,2007,1868,2009,Amendment,Main text,3,FALSE,Future generations,,1,,No FG
-Madagascar,1,501.76,1,Civil law,Africa,0.0204,0.2483,0.7313,1998,2010,2010,Original text,Preamble,1,FALSE,Environment,Natural resources,1,,No FG
-Malawi,1,406.65,0,Common law,Africa,0.0253,0.1294,0.8454,1994,1994,2017,Original text,Main text,4,FALSE,Environment,Natural resources,1,,No FG
-Malaysia,0,10269.86,0,Muslim law,Asia & the Pacific,,,,,1957,2007,,,,FALSE,,,,,No FG
-Maldives,1,"2.934.603,00",0,Muslim law,Asia & the Pacific,,,,2008,2008,2008,Original text,Main text,3,FALSE,Environment,Natural resources,0,,No FG
-Mali,0,897.29,1,Civil law,Africa,0.0054,0.3901,0.6045,,,,,,,FALSE,,,,,No FG
-Malta,0,28293.63,1,Civil law,Western Europe,,,,,1964,2016,,,,FALSE,,,,,No FG
-Marshall Islands,1,"854.943,00",0,Common law,Asia & the Pacific,0.0227,0.0611,0.9162,1979,1979,1995,Original text,Preamble,1,FALSE,Future generations,,,,No FG
-Mauritania,0,1971.45,1,Muslim law,Africa,0.0199,0.3879,0.5922,,1991,2012,,,,FALSE,,,,,No FG
-Mauritius,0,8993.48,1,Civil law,Africa,,,,,1968,2016,,,,FALSE,,,,,No FG
-Mexico,0,8421.19,1,Civil law,Americas,,,,,1917,2015,,,,FALSE,,,,,No FG
-Micronesia,0,3899.48,0,Common law,Asia & the Pacific,0.0727,0.0214,0.9059,,1978,1990,,,,FALSE,,,,,No FG
-Moldova,1,4365.85,1,Civil law,Eastern Europe & Central Asia,0.0713,0.2501,0.6786,2006,1994,2016,Amendment,Preamble,1,FALSE,Future generations,,0,,No FG
-Monaco,0,,1,Civil law,Western Europe,,,,,1962,2002,,,,FALSE,,,,,No FG
-Mongolia,0,"736.574,00",1,Customary law,Asia & the Pacific,0.032,0.2962,0.6718,,1992,2001,,,,FALSE,,,,,No FG
-Montenegro,0,7688.57,1,Civil law,Eastern Europe & Central Asia,0.029,0.2167,0.7543,,2007,2013,,,,FALSE,,,,,No FG
-Morocco,1,3158.32,1,Muslim law,Africa,0.1043,0.5321,0.3636,2011,2011,2011,Original text,Main text,4,FALSE,Future generations,,1,,No FG
-Mozambique,1,449.63,1,Customary law,Africa,0.0074,0.5211,0.4715,2004,2004,2007,Amendment,Main text,4,FALSE,Natural resources,Environment,0,,No FG
-Myanmar,0,1527.44,1,Common law,Asia & the Pacific,0.0767,0.8592,0.0641,,2008,2015,,,,FALSE,,,,,No FG
-Namibia,0,4175.18,0,Common law,Africa,0.1151,0.1387,0.7462,,1990,2014,,,,FALSE,,,,,No FG
-Nauru,0,8866.87,0,Common law,Asia & the Pacific,,,,,1968,2015,,,,FALSE,,,,,No FG
-Nepal,1,1195.59,0,Common law,Asia & the Pacific,0.1739,0.4671,0.359,2015,2015,2016,Original text,Main text,3,FALSE,Natural resources,Environment,,,No FG
-Netherlands,0,52247.54,1,Civil law,Western Europe,,,,,1814,2008,,,,FALSE,,,,,No FG
-New Zealand,0,41127.16,0,Common law,Asia & the Pacific,0.8891,0.0313,0.0796,,1852,2014,,,,FALSE,,,,,No FG
-Nicaragua,0,1869.71,1,Civil law,Americas,0.0029,0.7516,0.2455,,1987,2014,,,,FALSE,,,,,No FG
-Niger,1,565.87,1,Civil law,Africa,0.0051,0.4597,0.5352,2010,2010,2017,Original text,Main text,3,TRUE,Environment,Natural resources,1,,No FG
-Nigeria,0,2083.16,0,Common law,Africa,0.1339,0.077,0.7891,,1999,2011,,,,FALSE,,,,,No FG
-North Macedonia,1,"1.467.850,00",1,Civil law,Eastern Europe & Central Asia,,,,2001,1991,2011,Amendment,Preamble,1,FALSE,Societal values,,0,,No FG
-Norway,1,67176.43,1,Civil law,Western Europe,,,,2014,1814,2016,Amendment,Main text,4,FALSE,Environment,Natural resources,0,,No FG
-Oman,0,14215.58,1,Muslim law,Asia & the Pacific,0.267,0.5619,0.1711,,1996,2011,,,,FALSE,,,,,No FG
-Pakistan,0,"-233.753,00",0,Muslim law,Asia & the Pacific,0.4394,0.2017,0.3589,,2002,2018,,,,FALSE,,,,,No FG
-Palau,0,14411.66,0,Common law,Asia & the Pacific,0.0208,0.1231,0.8561,,1981,1992,,,,FALSE,,,,,No FG
-Palestine,1,3042.17,1,Customary law,Asia & the Pacific,,,,2003,2003,2005,Original text,Main text,3,FALSE,Environment,,0,,No FG
-Panama,0,12373.05,1,Civil law,Americas,0.0096,0.1596,0.8309,,1972,2004,,,,FALSE,,,,,No FG
-Papua New Guinea,1,2684.77,0,Customary law,Asia & the Pacific,0.1826,0.2293,0.5882,1975,1975,2016,Original text,Main text,2,FALSE,Natural resources,Environment,1,,No FG
-Paraguay,0,4946.46,1,Civil law,Americas,0.007,0.4535,0.5394,,1992,2011,,,,FALSE,,,,,No FG
-Peru,0,6083.87,1,Civil law,Americas,0.059,0.129,0.812,,1993,2021,,,,FALSE,,,,,No FG
-Philippines,1,3330.36,1,Common law,Asia & the Pacific,0.0437,0.1376,0.8187,1987,1987,1987,Original text,Preamble,1,FALSE,Societal values,,0,,No FG
-Poland,1,15653.56,1,Civil law,Eastern Europe & Central Asia,0.0255,0.1213,0.8532,1997,1997,2009,Original text,Preamble and Main text,3,FALSE,Environment,Societal values,0,,No FG
-Portugal,1,22488.62,1,Civil law,Western Europe,0.0084,0.7769,0.2148,2005,1976,2005,Original text,Main text,3,FALSE,Environment,Natural resources,,,No FG
-Qatar,1,52144.16,1,Muslim law,Asia & the Pacific,,,,2003,2003,2003,Original text,Main text,3,FALSE,Environment,,,,No FG
-Romania,0,12797.10,1,Civil law,Eastern Europe & Central Asia,,,,,1991,2003,,,,FALSE,,,,,No FG
-Russia,1,10037.24,1,Civil law,Eastern Europe & Central Asia,0.0092,0.0597,0.9311,1977,1993,2014,Original text,Preamble,1,FALSE,Future generations,,0,,No FG
-Rwanda,0,818.99,1,Civil law,Africa,0.0106,0.3681,0.6213,,2003,2015,,,,FALSE,,,,,No FG
-Samoa,0,3960.61,0,Common law,Asia & the Pacific,0.5561,0.0771,0.3668,,1962,2017,,,,FALSE,,,,,No FG
-San Marino,0,44818.19,1,Civil law,Western Europe,,,,,,,,,,FALSE,,,,,No FG
-Sao Tome and Principe,0,"6.576,00",1,Civil law,Africa,0.0815,0.8017,0.1167,,1975,2003,,,,FALSE,,,,,No FG
-Saudi Arabia,0,20178.23,0,Muslim law,Asia & the Pacific,,,,,1992,2013,,,,FALSE,,,,,No FG
-Senegal,1,1459.51,1,Civil law,Africa,0.0103,0.4493,0.5403,2001,2001,2016,Original text,Main text,2,FALSE,Natural resources,Environment,1,,No FG
-Serbia,0,7635.65,1,Civil law,Eastern Europe & Central Asia,0.0038,0.6806,0.3156,,2006,2006,,,,FALSE,,,,,No FG
-Seychelles,1,11638.72,1,Common law,Africa,0.0158,0.082,0.9022,1993,1993,2017,Original text,Preamble,1,FALSE,Societal values,Environment,0,,No FG
-Sierra Leone,0,526.51,0,Common law,Africa,,,,,1996,2013,,,,FALSE,,,,,No FG
-Singapore,0,58902.22,0,Common law,Asia & the Pacific,,,,,1963,2016,,,,FALSE,,,,,No FG
-Slovakia,1,19071.20,1,Civil law,Eastern Europe & Central Asia,0.059,0.4095,0.5315,2014,1992,2017,Amendment,Main text,3,FALSE,Natural resources,,,,No FG
-Slovenia,0,25210.72,1,Civil law,Eastern Europe & Central Asia,0.0108,0.5332,0.456,,1991,2016,,,,FALSE,,,,,No FG
-Solomon Islands,0,2392.24,0,Common law,Asia & the Pacific,0.2419,0.0378,0.7203,,1978,2018,,,,FALSE,,,,,No FG
-Somalia,0,326.98,0,Muslim law,Africa,0.0117,0.7591,0.2292,,2012,2012,,,,FALSE,,,,,No FG
-South Africa,1,5067.15,0,Civil law,Africa,0.1239,0.2684,0.6077,1997,1996,2012,Original text,Main text,4,FALSE,Environment,,1,,No FG
-South Sudan,1,295.66,0,Muslim law,Africa,0.1577,0.1993,0.643,2011,2011,2013,Original text,Preamble and Main text,4,TRUE,Natural resources,Environment,1,,No FG
-Spain,0,27132.32,1,Civil law,Western Europe,0.0154,0.2354,0.7492,,1978,2011,,,,FALSE,,,,,No FG
-Sri Lanka,1,3678.73,0,Civil law,Asia & the Pacific,0.374,0.1861,0.4399,1978,1978,2015,Original text,Preamble,1,FALSE,Societal values,,,,No FG
-St Kitts and Nevis,0,14918.75,0,Common law,Americas,0.1476,0.0579,0.7945,,1983,1983,,,,FALSE,,,,,No FG
-St Lucia,0,9351.36,0,Civil law,Americas,0.1126,0.0133,0.874,,1978,1978,,,,FALSE,,,,,No FG
-St Vincent and the Grenadines,0,7121.64,0,Common law,Americas,0.2131,0.0154,0.7715,,1979,1979,,,,FALSE,,,,,No FG
-Sudan,1,775.04,0,Muslim law,Africa,0.0499,0.1758,0.7744,2005,2019,2019,Original text,Main text,3,FALSE,Environment,,,,No FG
-Suriname,0,3988.45,1,Civil law,Americas,0.0114,0.3424,0.6462,,1987,1992,,,,FALSE,,,,,No FG
-Sweden,1,51796.38,1,Civil law,Western Europe,,,,1974,1974,2012,Original text,Main text,3,FALSE,Environment,,0,,No FG
-Switzerland,1,86849.47,1,Civil law,Western Europe,0.0452,0.1667,0.7881,1999,1999,2014,Original text,Preamble,1,FALSE,Future generations,,1,,No FG
-Syria,0,no data,1,Civil law,Eastern Europe & Central Asia,0.0096,0.7928,0.1976,,2012,2012,,,,FALSE,,,,,No FG
-Taiwan,0,28305.92,1,Civil law,Asia & the Pacific,0.0792,0.4769,0.4439,,1947,2005,,,,FALSE,,,,,No FG
-Tajikistan,1,843.97,1,Civil law,Eastern Europe & Central Asia,0.011,0.1025,0.8864,1994,1994,2016,Original text,Preamble,1,FALSE,Future generations,,0,,No FG
-Tanzania,0,1090.39,0,Common law,Africa,0.2422,0.11,0.6478,,1977,2005,,,,FALSE,,,,,No FG
-Thailand,0,7190.37,0,Civil law,Asia & the Pacific,0.6441,0.3145,0.0414,,2017,2017,,,,FALSE,,,,,No FG
-Timor Leste,1,1358.73,1,Civil law,Asia & the Pacific,0.0041,0.8062,0.1897,2002,2002,2002,Original text,Main text,2,FALSE,Environment,Natural resources,0,,No FG
-Togo,0,904.68,1,Civil law,Africa,0.0044,0.506,0.4896,,1992,2007,,,,FALSE,,,,,No FG
-Tonga,0,"1.178.243,00",0,Common law,Asia & the Pacific,0.9705,0.0079,0.0216,,1875,2013,,,,FALSE,,,,,No FG
-Trinidad and Tobago,0,15384.13,0,Common law,Americas,0.0638,0.0143,0.9219,,1976,22007,,,,FALSE,,,,,No FG
-Tunisia,1,3322.93,1,Civil law,Africa,0.0062,0.5786,0.4152,2014,2014,2014,Original text,Preamble and Main text,4,TRUE,Future generations,Environment,1,,No FG
-Turkey,0,8548.18,1,Civil law,Eastern Europe & Central Asia,0.1172,0.4337,0.4491,,1982,2017,,,,FALSE,,,,,No FG
-Turkmenistan,0,7967.30,1,Civil law,Eastern Europe & Central Asia,0.0086,0.1456,0.8458,,2008,2016,,,,FALSE,,,,,No FG
-Tuvalu,0,4372.40,0,Common law,Asia & the Pacific,,,,,1986,2010,,,,FALSE,,,,,No FG
-Uganda,1,912.44,0,Common law,Africa,0.1391,0.4374,0.4235,1995,1995,2017,Original text,Preamble and Main text,3,FALSE,Natural resources,Environment,1,,No FG
-Ukraine,1,"640.577,00",1,Civil law,Eastern Europe & Central Asia,0.0432,0.4273,0.5295,1996,1996,2016,Original text,Preamble,1,FALSE,Future generations,,0,,No FG
-United Arab Emirates,0,31982.23,0,Muslim law,Asia & the Pacific,0.0784,0.5833,0.3384,,1971,2009,,,,FALSE,,,,,No FG
-United Kingdom,1,40406.28,0,Common law,Western Europe,0.9959,0.0018,0.0023,1706,1215,2013,Amendment,Preamble,1,FALSE,Societal values,,,,No FG
-United States,1,63415.99,0,Common law,Americas,0.504,0.0797,0.4163,1789,1789,1992,Original text,Preamble,1,FALSE,Societal values,,0,,No FG
-Uruguay,1,15777.96,1,Civil law,Americas,,,,2004,1985,2004,Amendment,Main text,3,FALSE,Natural resources,Environment,0,,No FG
-Uzbekistan,1,1701.94,1,Civil law,Eastern Europe & Central Asia,0.0067,0.2116,0.7816,1992,1992,2011,Original text,Preamble,1,FALSE,Future generations,,0,,No FG
-Vanuatu,1,2875.95,1,Civil law,Africa,0.0437,0.0971,0.8592,1979,1980,2013,Original text,Main text,2,FALSE,Natural resources,Environment,1,,No FG
-Venezuela,1,1690.66,1,Civil law,Americas,0.0076,0.199,0.7934,1999,1999,2009,Original text,Preamble,1,FALSE,Societal values,,0,,No FG
-Vietnam,0,3498.98,1,Civil law,Asia & the Pacific,0.0021,0.9774,0.0205,,1992,2013,,,,FALSE,,,,,No FG
-Yemen,0,620.24,1,Muslim law,Asia & the Pacific,,,,,1991,2015,,,,FALSE,,,,,No FG
-Zambia,1,981.31,0,Common law,Africa,0.1548,0.0423,0.8029,2016,1991,2016,Amendment,Main text,1,FALSE,Public finance,,,,No FG
-Zimbabwe,1,"-188.007,00",0,Civil law,Africa,0.0174,0.1944,0.7883,2013,2013,2017,Original text,Main text,4,FALSE,Environment,Public finance,1,,No FG
+country,fg,gdp,qogleg,legsyst,region,ideolib,ideosta,ideouni,fg_year,year_new,year_last_reform,event,location,type,theme1,theme2,inst,orig_lang,fc
+Iran,1,7554.77,1,Muslim law,Asia & the Pacific,0.0295,0.8802,0.0903,1979,1979,1989,Original text,Main text,4,Environment,,0,0,0
+Malawi,1,406.65,0,Common law,Africa,0.0253,0.1294,0.8454,1994,1994,2017,Original text,Main text,4,Environment,Natural resources,0,1,1
+South Africa,1,5067.15,0,Civil law,Africa,0.1239,0.2684,0.6077,1997,1996,2012,Original text,Main text,4,Environment,,0,1,1
+Angola,1,2012.15,1,Civil law,Africa,0.0274,0.4886,0.484,2010,2010,2010,Original text,Preamble and Main text,4,Environment,Natural resources,0,1,0
+Kenya,1,"50.891,00",0,Common law,Africa,0.0357,0.0502,0.9141,2010,2010,2010,Original text,Preamble and Main text,4,Environment,Public finance,0,1,1
+Zimbabwe,1,"-188.007,00",0,Civil law,Africa,0.0174,0.1944,0.7883,2013,2013,2017,Original text,Main text,4,Environment,Public finance,0,1,1
+Fiji,1,4797.32,0,Common law,Asia & the Pacific,0.0122,0.0333,0.9545,2013,2013,2013,Original text,Main text,4,Environment,,0,1,0
+Norway,1,67176.43,1,Civil law,Western Europe,,,,2014,1814,2016,Amendment,Main text,4,Environment,Natural resources,0,0,0
+Sweden,1,51796.38,1,Civil law,Western Europe,,,,1974,1974,2012,Original text,Main text,3,Environment,,0,0,0
+Brazil,1,"1.783.601,00",1,Civil law,Americas,0.0085,0.1599,0.8316,1988,1988,2017,Original text,Main text,3,Environment,,0,1,0
+Ghana,1,2222.91,0,Common law,Africa,0.0532,0.0353,0.9115,1992,1992,1996,Original text,Preamble and Main text,3,Environment,Societal values,0,1,0
+Cuba,1,,1,Civil law,Americas,0.0069,0.9039,0.0891,1992,2019,2019,Amendment,Main text,3,Environment,Natural resources,0,1,0
+Lesotho,1,1002.98,0,Common law,Africa,,,,1993,1993,2018,Original text,Main text,3,Environment,Societal values,0,1,0
+Andorra,1,,1,Customary law,Western Europe,,,,1993,1993,1993,Original text,Preamble and Main text,3,Environment,,0,1,0
+Germany,1,45732.80,1,Civil law,Western Europe,0.0198,0.1419,0.8382,1994,1949,2014,Amendment,Main text,3,Environment,,0,1,1
+Armenia,1,4155.27,1,Civil law,Eastern Europe & Central Asia,0.0073,0.0988,0.8939,1995,1995,2015,Original text,Preamble,3,Environment,Natural resources,0,0,0
+Georgia,1,4247.94,1,Civil law,Eastern Europe & Central Asia,0.0551,0.3105,0.6344,1995,1995,2018,Original text,Main text,3,Environment,Natural resources,0,0,0
+Gambia,1,790.83,0,Muslim law,Africa,0.0222,0.3721,0.6056,1996,1996,2018,Original text,Main text,3,Environment,,0,1,0
+Poland,1,15653.56,1,Civil law,Eastern Europe & Central Asia,0.0255,0.1213,0.8532,1997,1997,2009,Original text,Preamble and Main text,3,Environment,Societal values,0,0,0
+Albania,1,5286.68,1,Civil law,Eastern Europe & Central Asia,0.0071,0.1205,0.8724,1998,1998,2016,Original text,Main text,3,Environment,,0,0,0
+Guyana,1,7327.17,0,Common law,Americas,0.0096,0.479,0.5114,2003,1980,2016,Amendment,Main text,3,Environment,,0,1,1
+Palestine,1,3042.17,1,Customary law,Asia & the Pacific,,,,2003,2003,2005,Original text,Main text,3,Environment,,0,0,0
+Qatar,1,52144.16,1,Muslim law,Asia & the Pacific,,,,2003,2003,2003,Original text,Main text,3,Environment,,0,0,
+Sudan,1,775.04,0,Muslim law,Africa,0.0499,0.1758,0.7744,2005,2019,2019,Original text,Main text,3,Environment,,0,1,
+Portugal,1,22488.62,1,Civil law,Western Europe,0.0084,0.7769,0.2148,2005,1976,2005,Original text,Main text,3,Environment,Natural resources,0,1,
+Ecuador,1,5520.36,1,Civil law,Americas,0.0074,0.2672,0.7254,2008,2008,2021,Original text,Main text,3,Environment,Natural resources,0,1,0
+Bhutan,1,3358.96,0,Customary law,Asia & the Pacific,0.5119,0.0432,0.4449,2008,2008,2008,Original text,Main text,3,Environment,Public finance,0,0,0
+Maldives,1,"2.934.603,00",0,Muslim law,Asia & the Pacific,,,,2008,2008,2008,Original text,Main text,3,Environment,Natural resources,0,0,0
+Niger,1,565.87,1,Civil law,Africa,0.0051,0.4597,0.5352,2010,2010,2017,Original text,Main text,3,Environment,Natural resources,1,1,1
+Dominican Republic,1,7530.19,1,Civil law,Americas,0.0121,0.1868,0.8011,2010,2015,2015,Original text,Main text,3,Environment,,0,1,0
+Argentina,1,8554.64,1,Civil law,Americas,0.0068,0.3109,0.6823,1994,1983,1994,Amendment,Preamble and Main text,2,Environment,Societal values,0,1,0
+Timor Leste,1,1358.73,1,Civil law,Asia & the Pacific,0.0041,0.8062,0.1897,2002,2002,2002,Original text,Main text,2,Environment,Natural resources,0,1,0
+Madagascar,1,501.76,1,Civil law,Africa,0.0204,0.2483,0.7313,1998,2010,2010,Original text,Preamble,1,Environment,Natural resources,0,1,1
+France,1,39907.14,1,Civil law,Western Europe,0.0259,0.3433,0.6308,2005,1958,2008,Amendment,Preamble,1,Environment,,0,1,1
+Cote d'Ivoire,1,2277.72,1,Civil law,Africa,0.0068,0.2137,0.7795,2016,2016,2016,Original text,Preamble,1,Environment,,0,1,1
+Japan,1,40146.07,1,Civil law,Asia & the Pacific,0.0592,0.0693,0.8714,1946,1946,1946,Original text,Preamble and Main text,4,Future generations,Societal values,0,0,0
+Morocco,1,3158.32,1,Muslim law,Africa,0.1043,0.5321,0.3636,2011,2011,2011,Original text,Main text,4,Future generations,,0,1,1
+Jamaica,1,5095.64,0,Common law,Americas,,,,2011,1962,2015,Amendment,Main text,4,Future generations,,0,1,1
+Tunisia,1,3322.93,1,Civil law,Africa,0.0062,0.5786,0.4152,2014,2014,2014,Original text,Preamble and Main text,4,Future generations,Environment,1,1,1
+Luxembourg,1,116921.11,1,Civil law,Western Europe,,,,2007,1868,2009,Amendment,Main text,3,Future generations,,0,1,1
+Hungary,1,15820.10,1,Civil law,Eastern Europe & Central Asia,0.1574,0.3264,0.5161,2011,2011,2016,Original text,Preamble and Main text,3,Future generations,Natural resources,1,0,0
+Congo (Republic of the),1,2185.58,1,Civil law,Africa,0.0168,0.3387,0.6445,2015,2015,2015,Original text,Main text,3,Future generations,,1,1,
+Russia,1,10037.24,1,Civil law,Eastern Europe & Central Asia,0.0092,0.0597,0.9311,1977,1993,2014,Original text,Preamble,1,Future generations,,0,0,0
+Marshall Islands,1,"854.943,00",0,Common law,Asia & the Pacific,0.0227,0.0611,0.9162,1979,1979,1995,Original text,Preamble,1,Future generations,,0,1,
+Estonia,1,23330.09,1,Civil law,Eastern Europe & Central Asia,0.1014,0.2993,0.5992,1992,1992,2015,Original text,Preamble,1,Future generations,,0,0,0
+Uzbekistan,1,1701.94,1,Civil law,Eastern Europe & Central Asia,0.0067,0.2116,0.7816,1992,1992,2011,Original text,Preamble,1,Future generations,,0,0,0
+Tajikistan,1,843.97,1,Civil law,Eastern Europe & Central Asia,0.011,0.1025,0.8864,1994,1994,2016,Original text,Preamble,1,Future generations,,0,0,0
+Azerbaijan,1,4218.00,1,Civil law,Eastern Europe & Central Asia,0.0486,0.2489,0.7025,1995,1995,2016,Original text,Preamble,1,Future generations,,0,0,0
+Kazakhstan,1,8732.64,1,Civil law,Eastern Europe & Central Asia,0.0234,0.0929,0.8837,1995,1995,2017,Original text,Preamble,1,Future generations,,0,0,0
+Ukraine,1,"640.577,00",1,Civil law,Eastern Europe & Central Asia,0.0432,0.4273,0.5295,1996,1996,2016,Original text,Preamble,1,Future generations,,0,0,0
+Switzerland,1,86849.47,1,Civil law,Western Europe,0.0452,0.1667,0.7881,1999,1999,2014,Original text,Preamble,1,Future generations,,0,1,1
+Czechia,1,22578.83,1,Civil law,Eastern Europe & Central Asia,0.0089,0.0655,0.9256,2002,1993,2013,Amendment,Preamble,1,Future generations,,0,0,0
+Moldova,1,4365.85,1,Civil law,Eastern Europe & Central Asia,0.0713,0.2501,0.6786,2006,1994,2016,Amendment,Preamble,1,Future generations,,0,0,0
+Latvia,1,17559.86,1,Civil law,Eastern Europe & Central Asia,0.0323,0.3135,0.6542,2014,1991,2016,Amendment,Preamble,1,Future generations,,0,0,0
+Mozambique,1,449.63,1,Customary law,Africa,0.0074,0.5211,0.4715,2004,2004,2007,Amendment,Main text,4,Natural resources,Environment,0,1,0
+Bolivia,1,3359.73,1,Civil law,Americas,0.0271,0.4698,0.5031,2009,2009,2009,Original text,Main text,4,Natural resources,Environment,0,1,0
+South Sudan,1,295.66,0,Muslim law,Africa,0.1577,0.1993,0.643,2011,2011,2013,Original text,Preamble and Main text,4,Natural resources,Environment,1,1,1
+Egypt,1,3586.97,1,Muslim law,Africa,0.0805,0.5595,0.3599,2012,2014,2019,Original text,Preamble and Main text,4,Natural resources,Environment,0,0,0
+Algeria,1,3262.58,1,Civil law,Africa,0.0216,0.5401,0.4383,1989,2020,2020,Original text,Preamble and Main text,3,Natural resources,Environment,0,1,1
+Uganda,1,912.44,0,Common law,Africa,0.1391,0.4374,0.4235,1995,1995,2017,Original text,Preamble and Main text,3,Natural resources,Environment,0,1,1
+Eritrea,1,588.25,1,Civil law,Africa,0.0148,0.4663,0.5189,1997,1997,1997,Original text,Preamble and Main text,3,Natural resources,Societal values,0,0,0
+Uruguay,1,15777.96,1,Civil law,Americas,,,,2004,1985,2004,Amendment,Main text,3,Natural resources,Environment,0,1,0
+Burundi,1,253.59,1,Civil law,Africa,0.0136,0.3857,0.6007,2005,2018,2018,Original text,Preamble and Main text,3,Natural resources,Environment,0,1,0
+Eswatini,1,3504.45,0,Civil law,Africa,0.2994,0.3364,0.3642,2005,2005,2005,Original text,Main text,3,Natural resources,Environment,0,1,0
+Slovakia,1,19071.20,1,Civil law,Eastern Europe & Central Asia,0.059,0.4095,0.5315,2014,1992,2017,Amendment,Main text,3,Natural resources,,0,0,
+Nepal,1,1195.59,0,Common law,Asia & the Pacific,0.1739,0.4671,0.359,2015,2015,2016,Original text,Main text,3,Natural resources,Environment,0,0,
+Papua New Guinea,1,2684.77,0,Customary law,Asia & the Pacific,0.1826,0.2293,0.5882,1975,1975,2016,Original text,Main text,2,Natural resources,Environment,0,0,1
+Vanuatu,1,2875.95,1,Civil law,Africa,0.0437,0.0971,0.8592,1979,1980,2013,Original text,Main text,2,Natural resources,Environment,0,1,1
+Senegal,1,1459.51,1,Civil law,Africa,0.0103,0.4493,0.5403,2001,2001,2016,Original text,Main text,2,Natural resources,Environment,0,1,1
+Zambia,1,981.31,0,Common law,Africa,0.1548,0.0423,0.8029,2016,1991,2016,Amendment,Main text,1,Public finance,,0,1,
+United Kingdom,1,40406.28,0,Common law,Western Europe,0.9959,0.0018,0.0023,1706,1215,2013,Amendment,Preamble,1,Societal values,,0,1,
+United States,1,63415.99,0,Common law,Americas,0.504,0.0797,0.4163,1789,1789,1992,Original text,Preamble,1,Societal values,,0,1,0
+Sri Lanka,1,3678.73,0,Civil law,Asia & the Pacific,0.374,0.1861,0.4399,1978,1978,2015,Original text,Preamble,1,Societal values,,0,0,
+Liberia,1,646.27,0,Common law,Africa,0.0186,0.1555,0.826,1986,1986,1986,Original text,Preamble,1,Societal values,,0,1,0
+"Korea, South",1,31496.77,1,Civil law,Asia & the Pacific,0.1675,0.3962,0.4363,1987,1948,1987,Amendment,Preamble,1,Societal values,,0,0,0
+Philippines,1,3330.36,1,Common law,Asia & the Pacific,0.0437,0.1376,0.8187,1987,1987,1987,Original text,Preamble,1,Societal values,,0,1,0
+Seychelles,1,11638.72,1,Common law,Africa,0.0158,0.082,0.9022,1993,1993,2017,Original text,Preamble,1,Societal values,Environment,0,1,0
+Venezuela,1,1690.66,1,Civil law,Americas,0.0076,0.199,0.7934,1999,1999,2009,Original text,Preamble,1,Societal values,,0,1,0
+North Macedonia,1,"1.467.850,00",1,Civil law,Eastern Europe & Central Asia,,,,2001,1991,2011,Amendment,Preamble,1,Societal values,,0,0,0
+Austria,1,48154.38,1,Civil law,Western Europe,,,,2005,1945,2013,Amendment,Main text,1,Societal values,,0,1,
+Libya,1,3280.83,1,Muslim law,Africa,0.0121,0.6692,0.3186,2011,2011,2012,Original text,Preamble,1,Societal values,,0,1,0
+Liechtenstein,0,,1,Civil law,Western Europe,0.8242,0.0425,0.1333,1921,1921,2011,,,,,,0,1,
+Lebanon,0,2802.14,1,Common law,Asia & the Pacific,0.0545,0.3333,0.6122,1926,1926,2004,,,,,,0,0,
+Ireland,0,83849.81,0,Common law,Western Europe,0.2818,0.1814,0.5368,1937,1937,2019,,,,,,0,1,
+Italy,0,31288.02,1,Civil law,Western Europe,,,,1947,1947,2020,,,,,,0,0,
+India,0,1964.88,0,Common law,Asia & the Pacific,0.1689,0.1092,0.7219,1949,1949,2016,,,,,,0,1,
+Jordan,0,4259.26,1,Civil law,Asia & the Pacific,0.8741,0.0364,0.0895,1952,1952,2016,,,,,,0,0,
+Israel,0,43688.58,0,Civil law,Asia & the Pacific,0.1136,0.3353,0.5511,1958,1958,2013,,,,,,0,1,
+Indonesia,0,3921.62,1,Civil law,Asia & the Pacific,0.1339,0.4196,0.4465,1959,1945,2002,,,,,,0,0,
+Kuwait,0,22105.09,1,Muslim law,Asia & the Pacific,0.0778,0.5689,0.3533,1962,1962,1992,,,,,,0,0,
+"Korea, North",0,,1,Civil law,Asia & the Pacific,0.0013,0.987,0.0118,1972,1972,2016,,,,,,0,0,
+Kiribati,0,1687.51,0,Common law,Asia & the Pacific,0.2007,0.1241,0.6752,1979,1979,2013,,,,,,0,1,
+Honduras,0,2382.88,1,Civil law,Americas,0.0107,0.3473,0.642,1982,1982,2013,,,,,,0,1,
+Guinea-Bissau,0,789.88,1,Civil law,Africa,0.0535,0.7769,0.1696,1984,1984,1996,,,,,,0,1,
+Haiti,0,1252.87,1,Civil law,Americas,0.0309,0.3509,0.6182,1987,1987,2012,,,,,,0,1,
+Laos,0,2625.53,1,Civil law,Asia & the Pacific,0.0077,0.8752,0.1171,1991,1991,2015,,,,,,0,0,
+Iceland,0,59633.72,1,Civil law,Western Europe,,,,1994,1944,2013,,,,,,0,0,
+Iraq,0,4288.77,1,Civil law,Asia & the Pacific,0.0673,0.2549,0.6778,2005,2005,2005,,,,,,0,0,
+Kosovo,0,,,Civil law,Eastern Europe & Central Asia,0.0078,0.5066,0.4856,2008,2008,2016,,,,,,0,0,
+Kyrgyzstan,0,1146.39,1,Civil law,Eastern Europe & Central Asia,0.0321,0.1382,0.8298,2010,2010,2016,,,,,,0,0,
+Benin,0,1250.87,1,Civil law,Africa,0.0591,0.4859,0.455,,1990,1990,,,,,,0,1,
+Botswana,0,6780.72,0,Civil law,Africa,,,,,1966,2016,,,,,,0,1,
+Burkina Faso,0,790.97,1,Civil law,Africa,0.0073,0.2212,0.7715,,1991,2015,,,,,,0,1,
+Cameroon,0,1469.91,1,Civil law,Africa,0.4318,0.0232,0.545,,1972,2008,,,,,,0,1,
+Cape Verde,0,3147.69,1,Civil law,Africa,0.0379,0.8316,0.1305,,1980,1992,,,,,,0,1,
+Central African Republic,0,489.87,1,Civil law,Africa,0.1016,0.4877,0.4107,,2016,2016,,,,,,0,1,
+Chad,0,653.98,1,Civil law,Africa,0.0048,0.5729,0.4223,,2018,2018,,,,,,0,1,
+Comoros,0,1361.86,1,Civil law,Africa,0.2819,0.0742,0.6439,,2018,2018,,,,,,0,1,
+Congo (Democratic Republic of the),0,540.53,1,Civil law,Africa,0.004,0.6359,0.3601,,2005,2011,,,,,,0,1,
+Djibouti,0,3074.39,1,Civil law,Africa,0.0273,0.2065,0.7661,,1992,2010,,,,,,0,1,
+Equatorial Guinea,0,6772.73,1,Civil law,Africa,0.0212,0.4262,0.5526,,1991,2012,,,,,,0,1,
+Ethiopia,0,994.20,1,Civil law,Africa,0.0132,0.4088,0.578,,1994,1994,,,,,,0,0,
+Gabon,0,7421.18,1,Civil law,Africa,0.0059,0.1899,0.8042,,1991,2011,,,,,,0,1,
+Guinea,0,1106.47,1,Civil law,Africa,0.0416,0.5973,0.3611,,,,,,,,,0,1,
+Mali,0,897.29,1,Civil law,Africa,0.0054,0.3901,0.6045,,,,,,,,,0,1,
+Mauritania,0,1971.45,1,Muslim law,Africa,0.0199,0.3879,0.5922,,1991,2012,,,,,,0,0,
+Mauritius,0,8993.48,1,Civil law,Africa,,,,,1968,2016,,,,,,0,1,
+Namibia,0,4175.18,0,Common law,Africa,0.1151,0.1387,0.7462,,1990,2014,,,,,,0,1,
+Nigeria,0,2083.16,0,Common law,Africa,0.1339,0.077,0.7891,,1999,2011,,,,,,0,1,
+Rwanda,0,818.99,1,Civil law,Africa,0.0106,0.3681,0.6213,,2003,2015,,,,,,0,1,
+Sao Tome and Principe,0,"6.576,00",1,Civil law,Africa,0.0815,0.8017,0.1167,,1975,2003,,,,,,0,1,
+Sierra Leone,0,526.51,0,Common law,Africa,,,,,1996,2013,,,,,,0,1,
+Somalia,0,326.98,0,Muslim law,Africa,0.0117,0.7591,0.2292,,2012,2012,,,,,,0,0,
+Tanzania,0,1090.39,0,Common law,Africa,0.2422,0.11,0.6478,,1977,2005,,,,,,0,1,
+Togo,0,904.68,1,Civil law,Africa,0.0044,0.506,0.4896,,1992,2007,,,,,,0,1,
+Antigua and Barbuda,0,14168.26,0,Common law,Americas,0.1427,0.0147,0.8426,,1981,1981,,,,,,0,1,
+Bahamas,0,29220.54,0,Common law,Americas,0.2777,0.0232,0.699,,1973,1973,,,,,,0,1,
+Barbados,0,15162.57,0,Common law,Americas,0.3905,0.0212,0.5882,,1966,2007,,,,,,0,1,
+Belize,0,3944.94,0,Common law,Americas,0.0699,0.0189,0.9112,,1981,2011,,,,,,0,1,
+Canada,0,43278.22,0,Common law,Americas,0.8324,0.0098,0.1578,,1867,2011,,,,,,0,1,
+Chile,0,12989.60,1,Civil law,Americas,0.1079,0.6376,0.2545,,1980,2018,,,,,,0,1,
+Colombia,0,5335.59,1,Civil law,Americas,0.0416,0.1304,0.828,,1991,2015,,,,,,0,1,
+Costa Rica,0,11982.28,1,Civil law,Americas,0.0228,0.3023,0.6748,,1949,2020,,,,,,0,1,
+Dominica,0,6903.76,0,Common law,Americas,0.1101,0.0126,0.8773,,1978,2014,,,,,,0,1,
+El Salvador,0,3794.31,1,Civil law,Americas,,,,,1983,2014,,,,,,0,1,
+Grenada,0,9185.56,0,Common law,Americas,0.0414,0.0164,0.9422,,1991,1992,,,,,,0,1,
+Guatemala,0,4288.75,1,Civil law,Americas,0.0622,0.3128,0.625,,1985,1993,,,,,,0,1,
+Mexico,0,8421.19,1,Civil law,Americas,,,,,1917,2015,,,,,,0,1,
+Nicaragua,0,1869.71,1,Civil law,Americas,0.0029,0.7516,0.2455,,1987,2014,,,,,,0,1,
+Panama,0,12373.05,1,Civil law,Americas,0.0096,0.1596,0.8309,,1972,2004,,,,,,0,1,
+Paraguay,0,4946.46,1,Civil law,Americas,0.007,0.4535,0.5394,,1992,2011,,,,,,0,1,
+Peru,0,6083.87,1,Civil law,Americas,0.059,0.129,0.812,,1993,2021,,,,,,0,1,
+St Kitts and Nevis,0,14918.75,0,Common law,Americas,0.1476,0.0579,0.7945,,1983,1983,,,,,,0,1,
+St Lucia,0,9351.36,0,Civil law,Americas,0.1126,0.0133,0.874,,1978,1978,,,,,,0,1,
+St Vincent and the Grenadines,0,7121.64,0,Common law,Americas,0.2131,0.0154,0.7715,,1979,1979,,,,,,0,1,
+Suriname,0,3988.45,1,Civil law,Americas,0.0114,0.3424,0.6462,,1987,1992,,,,,,0,0,
+Trinidad and Tobago,0,15384.13,0,Common law,Americas,0.0638,0.0143,0.9219,,1976,2007,,,,,,0,1,
+Afghanistan,0,580.82,1,Muslim law,Asia & the Pacific,0.083,0.468,0.449,,2004,2004,,,,,,0,0,
+Australia,0,52824.82,0,Common law,Asia & the Pacific,0.9912,0.0024,0.0065,,1901,1985,,,,,,0,1,
+Bahrain,0,22402.00,0,Muslim law,Asia & the Pacific,0.1151,0.5435,0.3414,,2002,2017,,,,,,0,0,
+Bangladesh,0,1998.43,0,Muslim law,Asia & the Pacific,0.1351,0.3595,0.5053,,1986,2014,,,,,,0,0,
+Brunei,0,26089.28,0,Muslim law,Asia & the Pacific,0.9227,0.0093,0.068,,1959,2006,,,,,,0,0,
+Cambodia,0,1655.39,1,Civil law,Asia & the Pacific,0.0357,0.6145,0.3498,,1993,2008,,,,,,0,0,
+China,0,10483.88,1,Civil law,Asia & the Pacific,0.0015,0.9897,0.0088,,1982,2018,,,,,,0,0,
+Malaysia,0,10269.86,0,Muslim law,Asia & the Pacific,,,,,1957,2007,,,,,,0,0,
+Micronesia,0,3899.48,0,Common law,Asia & the Pacific,0.0727,0.0214,0.9059,,1978,1990,,,,,,0,1,
+Mongolia,0,"736.574,00",1,Customary law,Asia & the Pacific,0.032,0.2962,0.6718,,1992,2001,,,,,,0,0,
+Myanmar,0,1527.44,1,Common law,Asia & the Pacific,0.0767,0.8592,0.0641,,2008,2015,,,,,,0,0,
+Nauru,0,8866.87,0,Common law,Asia & the Pacific,,,,,1968,2015,,,,,,0,1,
+New Zealand,0,41127.16,0,Common law,Asia & the Pacific,0.8891,0.0313,0.0796,,1852,2014,,,,,,0,1,
+Oman,0,14215.58,1,Muslim law,Asia & the Pacific,0.267,0.5619,0.1711,,1996,2011,,,,,,0,0,
+Pakistan,0,"-233.753,00",0,Muslim law,Asia & the Pacific,0.4394,0.2017,0.3589,,2002,2018,,,,,,0,1,
+Palau,0,14411.66,0,Common law,Asia & the Pacific,0.0208,0.1231,0.8561,,1981,1992,,,,,,0,1,
+Samoa,0,3960.61,0,Common law,Asia & the Pacific,0.5561,0.0771,0.3668,,1962,2017,,,,,,0,1,
+Saudi Arabia,0,20178.23,0,Muslim law,Asia & the Pacific,,,,,1992,2013,,,,,,0,0,
+Singapore,0,58902.22,0,Common law,Asia & the Pacific,,,,,1963,2016,,,,,,0,1,
+Solomon Islands,0,2392.24,0,Common law,Asia & the Pacific,0.2419,0.0378,0.7203,,1978,2018,,,,,,0,1,
+Taiwan,0,28305.92,1,Civil law,Asia & the Pacific,0.0792,0.4769,0.4439,,1947,2005,,,,,,0,0,
+Thailand,0,7190.37,0,Civil law,Asia & the Pacific,0.6441,0.3145,0.0414,,2017,2017,,,,,,0,0,
+Tonga,0,"1.178.243,00",0,Common law,Asia & the Pacific,0.9705,0.0079,0.0216,,1875,2013,,,,,,0,1,
+Tuvalu,0,4372.40,0,Common law,Asia & the Pacific,,,,,1986,2010,,,,,,0,1,
+United Arab Emirates,0,31982.23,0,Muslim law,Asia & the Pacific,0.0784,0.5833,0.3384,,1971,2009,,,,,,0,0,
+Vietnam,0,3498.98,1,Civil law,Asia & the Pacific,0.0021,0.9774,0.0205,,1992,2013,,,,,,0,0,
+Yemen,0,620.24,1,Muslim law,Asia & the Pacific,,,,,1991,2015,,,,,,0,0,
+Belarus,0,6398.87,1,Civil law,Eastern Europe & Central Asia,0.0512,0.1404,0.8084,,1994,2004,,,,,,0,0,
+Bosnia and Herzegovina,0,5912.98,1,Civil law,Eastern Europe & Central Asia,0.0416,0.2657,0.6928,,1995,2009,,,,,,0,0,
+Bulgaria,0,9919.30,1,Civil law,Eastern Europe & Central Asia,0.0067,0.064,0.9293,,1991,2015,,,,,,0,0,
+Croatia,0,14072.08,1,Civil law,Eastern Europe & Central Asia,0.1622,0.6411,0.1967,,1991,2013,,,,,,0,0,
+Cyprus,0,27053.80,0,Common law,Eastern Europe & Central Asia,,,,,1960,2013,,,,,,0,1,
+Lithuania,0,19916.50,1,Civil law,Eastern Europe & Central Asia,0.009,0.3317,0.6592,,1992,2019,,,,,,0,0,
+Montenegro,0,7688.57,1,Civil law,Eastern Europe & Central Asia,0.029,0.2167,0.7543,,2007,2013,,,,,,0,0,
+Romania,0,12797.10,1,Civil law,Eastern Europe & Central Asia,,,,,1991,2003,,,,,,0,0,
+Serbia,0,7635.65,1,Civil law,Eastern Europe & Central Asia,0.0038,0.6806,0.3156,,2006,2006,,,,,,0,0,
+Slovenia,0,25210.72,1,Civil law,Eastern Europe & Central Asia,0.0108,0.5332,0.456,,1991,2016,,,,,,0,0,
+Syria,0,no data,1,Civil law,Eastern Europe & Central Asia,0.0096,0.7928,0.1976,,2012,2012,,,,,,0,0,
+Turkey,0,8548.18,1,Civil law,Eastern Europe & Central Asia,0.1172,0.4337,0.4491,,1982,2017,,,,,,0,0,
+Turkmenistan,0,7967.30,1,Civil law,Eastern Europe & Central Asia,0.0086,0.1456,0.8458,,2008,2016,,,,,,0,0,
+Belgium,0,44529.39,1,Civil law,Western Europe,,,,,1831,2014,,,,,,0,1,
+Denmark,0,60494.20,1,Civil law,Western Europe,,,,,1953,1953,,,,,,0,0,
+Finland,0,48981.44,1,Civil law,Western Europe,,,,,1999,2011,,,,,,0,0,
+Greece,0,17670.29,1,Civil law,Western Europe,0.5327,0.0867,0.3805,,1975,2008,,,,,,0,0,
+Malta,0,28293.63,1,Civil law,Western Europe,,,,,1964,2016,,,,,,0,1,
+Monaco,0,,1,Civil law,Western Europe,,,,,1962,2002,,,,,,0,1,
+Netherlands,0,52247.54,1,Civil law,Western Europe,,,,,1814,2008,,,,,,0,0,
+San Marino,0,44818.19,1,Civil law,Western Europe,,,,,,,,,,,,0,0,
+Spain,0,27132.32,1,Civil law,Western Europe,0.0154,0.2354,0.7492,,1978,2011,,,,,,0,1,
